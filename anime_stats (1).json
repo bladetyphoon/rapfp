@@ -1,0 +1,1114 @@
+{
+  "downloadDate": "2025-01-03T21:44:29.583Z",
+  "data": {
+    "User": {
+      "name": "tdarth",
+      "statistics": {
+        "anime": {
+          "count": 18,
+          "episodesWatched": 192,
+          "minutesWatched": 4584
+        }
+      },
+      "favourites": {
+        "characters": {
+          "nodes": [
+            {
+              "name": {
+                "full": "Nijika Ijichi"
+              },
+              "gender": "Female",
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/character/large/b261674-a8tJYvtzqWgC.png"
+              }
+            },
+            {
+              "name": {
+                "full": "Ikuyo Kita"
+              },
+              "gender": "Female",
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/character/large/b266041-1HKgjJGP2MmM.png"
+              }
+            },
+            {
+              "name": {
+                "full": "Hitori Gotou"
+              },
+              "gender": "Female",
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/character/large/b257562-ocQOdbSMVKJv.png"
+              }
+            },
+            {
+              "name": {
+                "full": "Remi Ayasaki"
+              },
+              "gender": "Female",
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/character/large/b66965-Kfqui6IitXaL.png"
+              }
+            },
+            {
+              "name": {
+                "full": "Yui Yuigahama"
+              },
+              "gender": "Female",
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67069-6B3xnHfJUO0F.png"
+              }
+            },
+            {
+              "name": {
+                "full": "Kyouko Hori"
+              },
+              "gender": "Female",
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/character/large/b66171-o2vk3689wWFK.png"
+              }
+            },
+            {
+              "name": {
+                "full": "Honoka Sawada"
+              },
+              "gender": "Female",
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72459-NbyXnBAjLxKT.png"
+              }
+            },
+            {
+              "name": {
+                "full": "Yukino Yukinoshita"
+              },
+              "gender": "Female",
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67067-gqhgjlni0Bcf.png"
+              }
+            },
+            {
+              "name": {
+                "full": "Saki Kawasaki"
+              },
+              "gender": "Female",
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/character/large/b74587-mmTDJoCpsER9.jpg"
+              }
+            },
+            {
+              "name": {
+                "full": "Komachi Hikigaya"
+              },
+              "gender": "Female",
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67075-MYCrPU4NjMXa.png"
+              }
+            },
+            {
+              "name": {
+                "full": "Taiga Aisaka"
+              },
+              "gender": "Female",
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12064-7PDN3ylIeAZn.png"
+              }
+            },
+            {
+              "name": {
+                "full": "Kaguya Shinomiya"
+              },
+              "gender": "Female",
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120649-JMKQgPmVq6d3.png"
+              }
+            },
+            {
+              "name": {
+                "full": "Marin Kitagawa"
+              },
+              "gender": "Female",
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133676-kV2czE3C8Qls.png"
+              }
+            }
+          ]
+        },
+        "anime": {
+          "nodes": [
+            {
+              "title": {
+                "english": "Toradora!"
+              },
+              "coverImage": {
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-3Bh0rm99N6Vl.jpg"
+              },
+              "episodes": 25
+            },
+            {
+              "title": {
+                "english": "Kaguya-sama: Love is War"
+              },
+              "coverImage": {
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101921-VvdGQy1ZySYf.jpg"
+              },
+              "episodes": 12
+            },
+            {
+              "title": {
+                "english": "BOCCHI THE ROCK!"
+              },
+              "coverImage": {
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130003-OBj8AZKPvnV9.png"
+              },
+              "episodes": 12
+            },
+            {
+              "title": {
+                "english": "My Teen Romantic Comedy SNAFU"
+              },
+              "coverImage": {
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx14813-BC8aanHK9fju.jpg"
+              },
+              "episodes": 13
+            },
+            {
+              "title": {
+                "english": "Horimiya"
+              },
+              "coverImage": {
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124080-h8EPH92nyRfS.jpg"
+              },
+              "episodes": 13
+            },
+            {
+              "title": {
+                "english": "My Dress-Up Darling"
+              },
+              "coverImage": {
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132405-qP7FQYGmNI3d.jpg"
+              },
+              "episodes": 12
+            }
+          ]
+        }
+      },
+      "updatedAt": 1735889930
+    },
+    "MediaListCollection": {
+      "lists": [
+        {
+          "name": "Completed",
+          "isCustomList": false,
+          "status": "COMPLETED",
+          "entries": [
+            {
+              "media": {
+                "title": {
+                  "english": "Death Note"
+                },
+                "description": "Light Yagami is a genius high school student who is about to learn about life through a book of death. When a bored shinigami, a God of Death, named Ryuk drops a black notepad called a <i>Death Note</i>, Light receives power over life and death with the stroke of a pen. Determined to use this dark gift for the best, Light sets out to rid the world of evil… namely, the people he believes to be evil. Should anyone hold such power?<br>\n<br>\nThe consequences of Light’s actions will set the world ablaze.<br>\n<br>\n(Source: Viz Media)",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-4r88a1tsBEIz.jpg"
+                },
+                "episodes": 37,
+                "isFavourite": false,
+                "genres": [
+                  "Mystery",
+                  "Psychological",
+                  "Supernatural",
+                  "Thriller"
+                ]
+              },
+              "progress": 37,
+              "startedAt": {
+                "day": 11,
+                "month": 11,
+                "year": 2024
+              },
+              "completedAt": {
+                "day": null,
+                "month": null,
+                "year": null
+              },
+              "score": 8
+            },
+            {
+              "media": {
+                "title": {
+                  "english": "Kaguya-sama: Love is War"
+                },
+                "description": "Known for being both brilliant and powerful, Miyuki Shirogane and Kaguya Shinomiya lead the illustrious Shuchiin Academy as near equals. And everyone thinks they’d make a great couple. Pride and arrogance are in ample supply, so the only logical move is to trick the other into instigating a date! Who will come out on top in this psychological war where the first move is the only one that matters?\n<br><br>\n(Source: Aniplex)",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101921-VvdGQy1ZySYf.jpg"
+                },
+                "episodes": 12,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Psychological",
+                  "Romance",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 12,
+              "startedAt": {
+                "day": null,
+                "month": null,
+                "year": null
+              },
+              "completedAt": {
+                "day": null,
+                "month": null,
+                "year": null
+              },
+              "score": 10
+            },
+            {
+              "media": {
+                "title": {
+                  "english": "Kaguya-sama: Love is War?"
+                },
+                "description": "After a slow but eventful summer vacation, Shuchiin Academy's second term is now starting in full force. As August transitions into September, Miyuki Shirogane's birthday looms ever closer, leaving Kaguya Shinomiya in a serious predicament as to how to celebrate it. Furthermore, the tenure of the school's 67th student council is coming to an end. Due to the council members being in different classes, the only time Kaguya and Miyuki have to be together will soon disappear, putting all of their cunning plans at risk.<br></br>\n\nA long and difficult election that will decide the fate of the new student council awaits, as multiple challengers fight for the coveted title of president.<br></br>\n",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112641-zoGC8d6FaPXU.jpg"
+                },
+                "episodes": 12,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Psychological",
+                  "Romance",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 12,
+              "startedAt": {
+                "day": null,
+                "month": null,
+                "year": null
+              },
+              "completedAt": {
+                "day": null,
+                "month": null,
+                "year": null
+              },
+              "score": 10
+            },
+            {
+              "media": {
+                "title": {
+                  "english": "Kaguya-sama: Love is War -Ultra Romantic-"
+                },
+                "description": "The elite members of Shuchiin Academy's student council continue their competitive day-to-day antics. Council president Miyuki Shirogane clashes daily against vice-president Kaguya Shinomiya, each fighting tooth and nail to trick the other into confessing their romantic love. Kaguya struggles within the strict confines of her wealthy, uptight family, rebelling against her cold default demeanor as she warms to Shirogane and the rest of her friends.<br>\n<br>\nMeanwhile, council treasurer Yuu Ishigami suffers under the weight of his hopeless crush on Tsubame Koyasu, a popular upperclassman who helps to instill a new confidence in him. Miko Iino, the newest student council member, grows closer to the rule-breaking Ishigami while striving to overcome her own authoritarian moral code.<br>\n<br>\nAs love further blooms at Shuchiin Academy, the student council officers drag their outsider friends into increasingly comedic conflicts.<br>\n<br>\n(Source: MAL Rewrite)<br>\n<br>\n<i>Note: The first episode had an advanced screening on April 2, in both New York & Los Angeles.<br>",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125367-vV8WqtLQpT2J.png"
+                },
+                "episodes": 13,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Psychological",
+                  "Romance",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 13,
+              "startedAt": {
+                "day": null,
+                "month": null,
+                "year": null
+              },
+              "completedAt": {
+                "day": 26,
+                "month": 11,
+                "year": 2024
+              },
+              "score": 10
+            },
+            {
+              "media": {
+                "title": {
+                  "english": "My Dress-Up Darling"
+                },
+                "description": "High schooler Wakana Gojou cares about one thing: making Hina dolls. With nobody to share his obsession, he has trouble finding friends—or even holding conversation. But after the school’s most popular girl, Marin Kitagawa, reveals a secret of her own, he discovers a new purpose for his sewing skills. Together, they’ll make her cosplay dreams come true! <br>\n<br>\n(Source: Funimation)",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132405-qP7FQYGmNI3d.jpg"
+                },
+                "episodes": 12,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Ecchi",
+                  "Romance",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 12,
+              "startedAt": {
+                "day": null,
+                "month": null,
+                "year": null
+              },
+              "completedAt": {
+                "day": null,
+                "month": null,
+                "year": null
+              },
+              "score": 9
+            },
+            {
+              "media": {
+                "title": {
+                  "english": "5 Centimeters per Second"
+                },
+                "description": "Tohno Takaki and Shinohara Akari, two very close friends and classmates, are torn apart when Akari's family is transferred to another region of Japan due to her family's job. Despite separation, they continue to keep in touch through mail. When Takaki finds out that his family is also moving, he decides to meet with Akari one last time.<br><br>\nAs years pass by, they continue down their own paths, their distance slowly growing wider and their contact with one another fades. Yet, they keep remembering one another and the times they have shared together, wondering if they will have the chance to meet once again.\n",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1689-k9lxlCgPU4Zb.jpg"
+                },
+                "episodes": 3,
+                "isFavourite": false,
+                "genres": [
+                  "Drama",
+                  "Romance",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 3,
+              "startedAt": {
+                "day": null,
+                "month": null,
+                "year": null
+              },
+              "completedAt": {
+                "day": 26,
+                "month": 11,
+                "year": 2024
+              },
+              "score": 6
+            },
+            {
+              "media": {
+                "title": {
+                  "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-"
+                },
+                "description": "Shuchiin Academy’s student council room: the place where Student Council Vice President Kaguya Shinomiya and President Miyuki Shirogane met. After a long battle in love, these two geniuses communicated their feelings and, at the Hoshin Festival, had their very first kiss. However, there was no clear confession of love. The relationship between these two, who assumed they would be a couple, remains ambiguous. Now, overly conscious of their feelings, they must face the biggest challenge yet: Christmas. It’s Shirogane who wants it to be perfect versus Kaguya who pursues the imperfect situation. This is the very “normal” love story of two geniuses and the first kiss that never ends.\n<br><br>\n(Source: Aniplex of America)\n<br><br>\n<em>Note: The anime first premiered in theaters across Japan on December 17, 2022. It was later split into 2 parts on TV, and 4 episodes on streaming, and Blu-Ray/DVD.</em>",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151384-gv0q8wOE6D58.jpg"
+                },
+                "episodes": 4,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Psychological",
+                  "Romance",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 4,
+              "startedAt": {
+                "day": 27,
+                "month": 11,
+                "year": 2024
+              },
+              "completedAt": {
+                "day": 28,
+                "month": 11,
+                "year": 2024
+              },
+              "score": 10
+            },
+            {
+              "media": {
+                "title": {
+                  "english": "Toradora!"
+                },
+                "description": "Ryuuji Takasu is a gentle high school student with a love for housework; but in contrast to his kind nature, he has an intimidating face that often gets him labeled as a delinquent. On the other hand is Taiga Aisaka, a small, doll-like student, who is anything but a cute and fragile girl. Equipped with a wooden katana and feisty personality, Taiga is known throughout the school as the \"Palmtop Tiger.\"\n<br><br>\nOne day, an embarrassing mistake causes the two students to cross paths. Ryuuji discovers that Taiga actually has a sweet side: she has a crush on the popular vice president, Yuusaku Kitamura, who happens to be his best friend. But things only get crazier when Ryuuji reveals that he has a crush on Minori Kushieda—Taiga's best friend!\n<br><br>\n<i>Toradora!</i> is a romantic comedy that follows this odd duo as they embark on a quest to help each other with their respective crushes, forming an unlikely alliance in the process.\n",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-3Bh0rm99N6Vl.jpg"
+                },
+                "episodes": 25,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Drama",
+                  "Romance",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 25,
+              "startedAt": {
+                "day": 28,
+                "month": 11,
+                "year": 2024
+              },
+              "completedAt": {
+                "day": 3,
+                "month": 12,
+                "year": 2024
+              },
+              "score": 10
+            },
+            {
+              "media": {
+                "title": {
+                  "english": "Toradora!: Bento Battle"
+                },
+                "description": "An unaired episode included in the Blu-ray box set.<br><br>\nYuusaku brings an extravagant bento box to share with the class, which makes Ryuuji feel inferior about his own bento making skills. Desperate to beat his bentos, Ryuuji obsessively tries to compete against them to the point where he even brings a rice cooker to school. After Taiga brings him some salty onigiri, Ryuuji realises that the true meaning of bentos is not the taste, but the feelings that are put into it.<br><br>\n(Source: Wikipedia)",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11553-wj42fK4eFcvZ.jpg"
+                },
+                "episodes": 1,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Romance",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 1,
+              "startedAt": {
+                "day": null,
+                "month": null,
+                "year": null
+              },
+              "completedAt": {
+                "day": 3,
+                "month": 12,
+                "year": 2024
+              },
+              "score": 0
+            },
+            {
+              "media": {
+                "title": {
+                  "english": "Horimiya"
+                },
+                "description": "A secret life is the one thing they have in common. At school, Hori is a prim and perfect social butterfly, but the truth is she's a brash homebody. Meanwhile, under a gloomy facade, Miyamura hides a gentle heart, along with piercings and tattoos. In a chance meeting, they both reveal a side they've never shown. Could this blossom into something new?<br>\n<br>\n(Source: Funimation)",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124080-h8EPH92nyRfS.jpg"
+                },
+                "episodes": 13,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Romance",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 13,
+              "startedAt": {
+                "day": 4,
+                "month": 12,
+                "year": 2024
+              },
+              "completedAt": {
+                "day": 7,
+                "month": 12,
+                "year": 2024
+              },
+              "score": 9
+            },
+            {
+              "media": {
+                "title": {
+                  "english": "My Teen Romantic Comedy SNAFU"
+                },
+                "description": "This romantic comedy revolves around an antisocial high school student named Hikigaya Hachiman with a distorted view on life and no friends or girlfriend. When he sees his classmates talking excitedly about living their adolescent lives, he mutters: \"They're a bunch of liars.\" When he is asked about his future dreams, he responds: \"Not working.\" A teacher gets Hachiman to join the 'Volunteer Service' club, which happens to have the school's prettiest girl: Yukinoshita Yukino.<br><br>\n(Source: Anime News Network)",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx14813-BC8aanHK9fju.jpg"
+                },
+                "episodes": 13,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Drama",
+                  "Romance",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 13,
+              "startedAt": {
+                "day": 15,
+                "month": 12,
+                "year": 2024
+              },
+              "completedAt": {
+                "day": 20,
+                "month": 12,
+                "year": 2024
+              },
+              "score": 10
+            },
+            {
+              "media": {
+                "title": {
+                  "english": "Horimiya: The Missing Pieces"
+                },
+                "description": "A new anime project adapting popular side stories that were left out from the previous adaptation.\n<br><br>\nAs the graduation ceremony at Katagiri High School comes to an end, Kyouko Hori, her boyfriend Izumi Miyamura, and their friends begin to look back on their time as students. The moments they shared together may be fleeting, but each one is a colorful piece of their precious memories.\n<br><br>\n(Source: MAL Rewrite)",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163132-C220CO5UrTxY.jpg"
+                },
+                "episodes": 13,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Romance",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 13,
+              "startedAt": {
+                "day": 8,
+                "month": 12,
+                "year": 2024
+              },
+              "completedAt": {
+                "day": 14,
+                "month": 12,
+                "year": 2024
+              },
+              "score": 9
+            },
+            {
+              "media": {
+                "title": {
+                  "english": "My Teen Romantic Comedy SNAFU TOO!"
+                },
+                "description": "The second season of <i>Yahari Ore no Seishun Love Come wa Machigatteiru.</i><br>\n<br>\nYahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku picks up immediately after the events of the first season, continuing the adventures of the Volunteer Service Club—the dispassionate Hachiman Hikigaya, the cheerful Yui Yuigahama, and the competitive Yukino Yukinoshita—as it dedicates itself to helping any student with issues that they may face.<br>\n<br>\nWith the rift among his own group widening, Hachiman begins to realize that his knack for quickly getting to the root of other people's troubles is a double-edged sword: sometimes the best solution is not necessarily the most appropriate one.<br>\n<br>\n(Source: MAL Rewrite)",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20698-YZIYor2zW3Ta.png"
+                },
+                "episodes": 13,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Drama",
+                  "Romance",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 13,
+              "startedAt": {
+                "day": 22,
+                "month": 12,
+                "year": 2024
+              },
+              "completedAt": {
+                "day": 27,
+                "month": 12,
+                "year": 2024
+              },
+              "score": 10
+            },
+            {
+              "media": {
+                "title": {
+                  "english": "My Teen Romantic Comedy SNAFU Climax!"
+                },
+                "description": "The third season of <i>Yahari Ore no Seishun Love Come wa Machigatteiru</i>.<br>\n<br>\nAs the members of the Service Club band together to host a school prom, Hachiman, Yukino and Yui will have to put their feelings into words and truly learn to understand each other at long last… if the Service Club can even stay afloat, that is!<br>\n<br>\n(Source: Sentai Filmworks)",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108489-UqIzSjJ4eOMD.png"
+                },
+                "episodes": 12,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Drama",
+                  "Romance",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 12,
+              "startedAt": {
+                "day": 28,
+                "month": 12,
+                "year": 2024
+              },
+              "completedAt": {
+                "day": 1,
+                "month": 1,
+                "year": 2025
+              },
+              "score": 10
+            },
+            {
+              "media": {
+                "title": {
+                  "english": "My Teen Romantic Comedy SNAFU OVA"
+                },
+                "description": "The Service Club is recruited by a magazine to write an article promoting \"Love and Marriage\". Yukino calls in Hachiman's younger sister Komachi for assistance, and the three of them, along with Yui and their teacher Shuzuka get side-tracked and begin competing to see who can be the best wife.\n<br><br>\n(Source: Anime News Network)\n<br><br>\n<i>Note: Bundled with the limited edition of the Yahari Game demo Ore no Seishun Love Come wa Machigatteiru. PlayStation Vita game from 5pb.</i>",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18753-0UHzxB54fYHY.png"
+                },
+                "episodes": 1,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Romance",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 1,
+              "startedAt": {
+                "day": 22,
+                "month": 12,
+                "year": 2024
+              },
+              "completedAt": {
+                "day": 22,
+                "month": 12,
+                "year": 2024
+              },
+              "score": 10
+            },
+            {
+              "media": {
+                "title": {
+                  "english": "My Teen Romantic Comedy SNAFU TOO! OVA"
+                },
+                "description": "An adaptation of a story from volume 10.5 about Iroha Isshiki. <br><br>\n\nAfter accepting a weekend invitation, Hachiman Hikigaya accompanies Iroha Isshiki around the Chiba Prefecture to brainstorm ideas suitable for an ideal date with Hayato Hayama. As the duo wanders from place to place without a plan, they seemingly enjoy each other's company. Yet, through these straightforward and sincere interactions, the meaning behind what it means to be genuine continues to intrigue Hachiman and his outlook for the future of the Volunteer Service Club and its members. <br><br>\n\n(Source: MAL Rewrite)<br><br>\n\n<i>Note: Bundled with the limited edition of the Yahari Game demo Ore no Seishun Love Come wa Machigatteiru. Zoku PlayStation Vita game from 5pb.",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21769-ZBoT6szJKGZv.jpg"
+                },
+                "episodes": 1,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Romance",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 1,
+              "startedAt": {
+                "day": 28,
+                "month": 12,
+                "year": 2024
+              },
+              "completedAt": {
+                "day": 28,
+                "month": 12,
+                "year": 2024
+              },
+              "score": 10
+            },
+            {
+              "media": {
+                "title": {
+                  "english": null
+                },
+                "description": "Unaired episode bundled with the limited edition version of the Yahari Game demo Ore no Seishun Love Come wa Machigatteiru. Kan Nintendo Switch/PS4 game from MAGES.",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128643-ohNhGx7QDpdg.jpg"
+                },
+                "episodes": 1,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Drama",
+                  "Romance",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 1,
+              "startedAt": {
+                "day": 1,
+                "month": 1,
+                "year": 2025
+              },
+              "completedAt": {
+                "day": 1,
+                "month": 1,
+                "year": 2025
+              },
+              "score": 10
+            }
+          ]
+        },
+        {
+          "name": "Top tier",
+          "isCustomList": true,
+          "status": null,
+          "entries": [
+            {
+              "media": {
+                "title": {
+                  "english": "Kaguya-sama: Love is War"
+                },
+                "description": "Known for being both brilliant and powerful, Miyuki Shirogane and Kaguya Shinomiya lead the illustrious Shuchiin Academy as near equals. And everyone thinks they’d make a great couple. Pride and arrogance are in ample supply, so the only logical move is to trick the other into instigating a date! Who will come out on top in this psychological war where the first move is the only one that matters?\n<br><br>\n(Source: Aniplex)",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101921-VvdGQy1ZySYf.jpg"
+                },
+                "episodes": 12,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Psychological",
+                  "Romance",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 12,
+              "startedAt": {
+                "day": null,
+                "month": null,
+                "year": null
+              },
+              "completedAt": {
+                "day": null,
+                "month": null,
+                "year": null
+              },
+              "score": 10
+            },
+            {
+              "media": {
+                "title": {
+                  "english": "My Dress-Up Darling"
+                },
+                "description": "High schooler Wakana Gojou cares about one thing: making Hina dolls. With nobody to share his obsession, he has trouble finding friends—or even holding conversation. But after the school’s most popular girl, Marin Kitagawa, reveals a secret of her own, he discovers a new purpose for his sewing skills. Together, they’ll make her cosplay dreams come true! <br>\n<br>\n(Source: Funimation)",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132405-qP7FQYGmNI3d.jpg"
+                },
+                "episodes": 12,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Ecchi",
+                  "Romance",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 12,
+              "startedAt": {
+                "day": null,
+                "month": null,
+                "year": null
+              },
+              "completedAt": {
+                "day": null,
+                "month": null,
+                "year": null
+              },
+              "score": 9
+            },
+            {
+              "media": {
+                "title": {
+                  "english": "Toradora!"
+                },
+                "description": "Ryuuji Takasu is a gentle high school student with a love for housework; but in contrast to his kind nature, he has an intimidating face that often gets him labeled as a delinquent. On the other hand is Taiga Aisaka, a small, doll-like student, who is anything but a cute and fragile girl. Equipped with a wooden katana and feisty personality, Taiga is known throughout the school as the \"Palmtop Tiger.\"\n<br><br>\nOne day, an embarrassing mistake causes the two students to cross paths. Ryuuji discovers that Taiga actually has a sweet side: she has a crush on the popular vice president, Yuusaku Kitamura, who happens to be his best friend. But things only get crazier when Ryuuji reveals that he has a crush on Minori Kushieda—Taiga's best friend!\n<br><br>\n<i>Toradora!</i> is a romantic comedy that follows this odd duo as they embark on a quest to help each other with their respective crushes, forming an unlikely alliance in the process.\n",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-3Bh0rm99N6Vl.jpg"
+                },
+                "episodes": 25,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Drama",
+                  "Romance",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 25,
+              "startedAt": {
+                "day": 28,
+                "month": 11,
+                "year": 2024
+              },
+              "completedAt": {
+                "day": 3,
+                "month": 12,
+                "year": 2024
+              },
+              "score": 10
+            },
+            {
+              "media": {
+                "title": {
+                  "english": "Horimiya"
+                },
+                "description": "A secret life is the one thing they have in common. At school, Hori is a prim and perfect social butterfly, but the truth is she's a brash homebody. Meanwhile, under a gloomy facade, Miyamura hides a gentle heart, along with piercings and tattoos. In a chance meeting, they both reveal a side they've never shown. Could this blossom into something new?<br>\n<br>\n(Source: Funimation)",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124080-h8EPH92nyRfS.jpg"
+                },
+                "episodes": 13,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Romance",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 13,
+              "startedAt": {
+                "day": 4,
+                "month": 12,
+                "year": 2024
+              },
+              "completedAt": {
+                "day": 7,
+                "month": 12,
+                "year": 2024
+              },
+              "score": 9
+            },
+            {
+              "media": {
+                "title": {
+                  "english": "My Teen Romantic Comedy SNAFU"
+                },
+                "description": "This romantic comedy revolves around an antisocial high school student named Hikigaya Hachiman with a distorted view on life and no friends or girlfriend. When he sees his classmates talking excitedly about living their adolescent lives, he mutters: \"They're a bunch of liars.\" When he is asked about his future dreams, he responds: \"Not working.\" A teacher gets Hachiman to join the 'Volunteer Service' club, which happens to have the school's prettiest girl: Yukinoshita Yukino.<br><br>\n(Source: Anime News Network)",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx14813-BC8aanHK9fju.jpg"
+                },
+                "episodes": 13,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Drama",
+                  "Romance",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 13,
+              "startedAt": {
+                "day": 15,
+                "month": 12,
+                "year": 2024
+              },
+              "completedAt": {
+                "day": 20,
+                "month": 12,
+                "year": 2024
+              },
+              "score": 10
+            },
+            {
+              "media": {
+                "title": {
+                  "english": "BOCCHI THE ROCK!"
+                },
+                "description": "Hitori Gotou, “Bocchi-chan,” is a girl who’s so introverted and shy around people that she’d always start her conversations with “Ah...”<br>\n<br>\nDuring her middle school years, she started playing the guitar, wanting to join a band because she thought it could be an opportunity for even someone shy like her to also shine. But because she had no friends, she ended up practicing guitar for six hours every day all by herself. After becoming a skilled guitar player, she uploaded videos of herself playing the guitar to the internet under the name “Guitar Hero” and fantasized about performing at her school’s cultural festival concert. But not only could she not find any bandmates, before she knew it, she was in high school and still wasn’t able to make a single friend!<br>\n<br>\nShe was really close to becoming a shut-in, but one day, Nijika Ijichi, the drummer in Kessoku Band, reached out to her. And because of that, her everyday life started to change little by little...<br>\n<br>\n(Source: Crunchyroll)",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130003-OBj8AZKPvnV9.png"
+                },
+                "episodes": 12,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Music",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 6,
+              "startedAt": {
+                "day": 2,
+                "month": 1,
+                "year": 2025
+              },
+              "completedAt": {
+                "day": null,
+                "month": null,
+                "year": null
+              },
+              "score": 10
+            }
+          ]
+        },
+        {
+          "name": "Planning",
+          "isCustomList": false,
+          "status": "PLANNING",
+          "entries": [
+            {
+              "media": {
+                "title": {
+                  "english": "Tomo-chan Is a Girl!"
+                },
+                "description": "Tomboy Tomo couldn’t have picked a more awkward high school crush ’cause it’s on her childhood friend, Junichiro, but he only sees her as one of the guys. Despite her pretty looks and signals, nothing gets through to this meathead! Will Junichiro ever realize Tomo’s into him and see her for the cutesy girl she actually is?!<br>\n<br>\n(Source: Crunchyroll) <br><br>",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151806-IAMi2ctI5xJI.jpg"
+                },
+                "episodes": 13,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Romance",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 0,
+              "startedAt": {
+                "day": null,
+                "month": null,
+                "year": null
+              },
+              "completedAt": {
+                "day": null,
+                "month": null,
+                "year": null
+              },
+              "score": 0
+            },
+            {
+              "media": {
+                "title": {
+                  "english": "K-ON!"
+                },
+                "description": "Hirasawa Yui, a young, carefree girl entering high school, has her imagination instantly captured when she sees a poster advertising the ‘Light Music Club’. Being the carefree girl that she is, she quickly signs up. However, Yui has a problem, she is unable to play an instrument.<br><br>\nWhen Yui goes to the clubroom to explain, she's greeted by the other members: Ritsu, Mio and Tsumugi. Although disheartened at Yui’s lack of musical know-how, they still try to convince her to stay to prevent the club’s disbandment. After playing Yui a short piece which re-ignites her imagination, they succeed in keeping their new member and guitarist.<br><br>\nAlong with the tasks of school and homework, Yui begins to learn the guitar with the help of the other band members, experiencing many mishaps along the way. However, with the school-festival drawing near and Yui getting stuck with her practice, will the Light Music Club be ready in time for their debut?<br><br>\n(Source: MAL Rewrite)",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5680-Hw0SQuKGa9kl.png"
+                },
+                "episodes": 13,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Music",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 0,
+              "startedAt": {
+                "day": null,
+                "month": null,
+                "year": null
+              },
+              "completedAt": {
+                "day": null,
+                "month": null,
+                "year": null
+              },
+              "score": 0
+            },
+            {
+              "media": {
+                "title": {
+                  "english": "My Deer Friend Nokotan"
+                },
+                "description": "Koshi Torako has everyone fooled. Her classmates see her as the perfect honor student, unaware of her secret delinquent past. But her new picturesque school life is thrown into chaos when she bumps into Shikanoko Noko, a girl with antlers! Mayhem seems to follow this strange doe-eyed girl. Who, or what, is she?\n<br><br>\n(Source: Crunchyroll)<br><br>\n<i>Note: Each episode streamed 4 days early on some streaming services. The original TV broadcast started on June 7th, 2024.</i>",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175977-Pgrtv3p3ROe9.jpg"
+                },
+                "episodes": 12,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Fantasy",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 0,
+              "startedAt": {
+                "day": null,
+                "month": null,
+                "year": null
+              },
+              "completedAt": {
+                "day": null,
+                "month": null,
+                "year": null
+              },
+              "score": 0
+            },
+            {
+              "media": {
+                "title": {
+                  "english": "Rent-a-Girlfriend"
+                },
+                "description": "Kinoshita Kazuya is a 20-year-old failure of a college student. He managed to kiss his girlfriend once, but was dumped after a month. \"Ugh... Damn it. I never want to go through that again.\" \n<br><br>\nCompletely spiteful, Kazuya uses a certain method to date a girl. He goes to their meeting place and suddenly hears, \"You're Kazuya-kun, right?\" A beautiful girl brushing her long, black hair behind her ear was there, smiling at him. Her name was Mizuhara Chizuru. Something real is born after just a single rental! A reckless rom-com filled with love and excitement is about to begin!\n<br><br>\n(Source: Crunchyroll)",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113813-1hraQMAxU4VG.jpg"
+                },
+                "episodes": 12,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Drama",
+                  "Romance"
+                ]
+              },
+              "progress": 0,
+              "startedAt": {
+                "day": null,
+                "month": null,
+                "year": null
+              },
+              "completedAt": {
+                "day": null,
+                "month": null,
+                "year": null
+              },
+              "score": 0
+            },
+            {
+              "media": {
+                "title": {
+                  "english": "Miss Kobayashi's Dragon Maid"
+                },
+                "description": "What happens when a drunken promise leads to living with a dragon? That’s Miss Kobayashi’s new reality when Tohru appears in her life. With a maid-slash-dragon in her home, she’s experiencing a whole new level of domestic bliss! But the dragons don’t stop there. On a mission to find Tohru appears Kanna, a little dragon with a big attitude. Before she knows it, Kobayashi’s got a house full of dragons—one serving tail and the other serving serious moe! Together, they live side by side with only the occasional disaster…well, maybe. But nothing beats coming home to the warm welcome of a dragon maid!<br><br>\n\n(Source: Funimation)",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21776-TUzyt2Y6jKmU.png"
+                },
+                "episodes": 13,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Fantasy",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 0,
+              "startedAt": {
+                "day": null,
+                "month": null,
+                "year": null
+              },
+              "completedAt": {
+                "day": null,
+                "month": null,
+                "year": null
+              },
+              "score": 0
+            }
+          ]
+        },
+        {
+          "name": "Watching",
+          "isCustomList": false,
+          "status": "CURRENT",
+          "entries": [
+            {
+              "media": {
+                "title": {
+                  "english": "BOCCHI THE ROCK!"
+                },
+                "description": "Hitori Gotou, “Bocchi-chan,” is a girl who’s so introverted and shy around people that she’d always start her conversations with “Ah...”<br>\n<br>\nDuring her middle school years, she started playing the guitar, wanting to join a band because she thought it could be an opportunity for even someone shy like her to also shine. But because she had no friends, she ended up practicing guitar for six hours every day all by herself. After becoming a skilled guitar player, she uploaded videos of herself playing the guitar to the internet under the name “Guitar Hero” and fantasized about performing at her school’s cultural festival concert. But not only could she not find any bandmates, before she knew it, she was in high school and still wasn’t able to make a single friend!<br>\n<br>\nShe was really close to becoming a shut-in, but one day, Nijika Ijichi, the drummer in Kessoku Band, reached out to her. And because of that, her everyday life started to change little by little...<br>\n<br>\n(Source: Crunchyroll)",
+                "coverImage": {
+                  "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130003-OBj8AZKPvnV9.png"
+                },
+                "episodes": 12,
+                "isFavourite": false,
+                "genres": [
+                  "Comedy",
+                  "Music",
+                  "Slice of Life"
+                ]
+              },
+              "progress": 6,
+              "startedAt": {
+                "day": 2,
+                "month": 1,
+                "year": 2025
+              },
+              "completedAt": {
+                "day": null,
+                "month": null,
+                "year": null
+              },
+              "score": 10
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
