@@ -1,24 +1,41 @@
 function app1Function() {
-  setTimeout(() => {window.open("https://sites.google.com/view/heyitadm1nsdontblock/apps/ai/ai-chat");}, 100);
+  setTimeout(() => {
+    loadNewContent("https://cdn.jsdelivr.net/gh/vidio-boy/Eaglercraft1.5.2@refs/heads/main/eaglercraft.1.5.2.html");
+  }, 100);
 }
 
 function app2Function() {
-  console.log('App 2 clicked!');
+  setTimeout(() => {
+    loadNewContent("https://cdn.jsdelivr.net/gh/your-user/your-repo/app2-content.html");
+  }, 100);
 }
 
 function app3Function() {
-  console.log('App 3 clicked!');
-  // Additional functionality for App 3
+  setTimeout(() => {
+    loadNewContent("https://cdn.jsdelivr.net/gh/your-user/your-repo/app3-content.html");
+  }, 100);
 }
 
 function app4Function() {
-  console.log('App 4 clicked!');
-  // Additional functionality for App 4
+  setTimeout(() => {
+    loadNewContent("https://cdn.jsdelivr.net/gh/your-user/your-repo/app4-content.html");
+  }, 100);
 }
 
 function app5Function() {
-  console.log('App 5 clicked!');
-  // Additional functionality for App 5
+  setTimeout(() => {
+    loadNewContent("https://cdn.jsdelivr.net/gh/your-user/your-repo/app5-content.html");
+  }, 100);
+}
+
+// Function to load new HTML content from a JSDelivr link
+function loadNewContent(url) {
+  fetch(url)
+    .then(response => response.text())
+    .then(data => {
+      document.body.innerHTML = data; // Replaces entire body content with the new HTML
+    })
+    .catch(error => console.error('Error loading new content:', error));
 }
 
 // Add click effect to each dock item and assign individual functions
