@@ -30,6 +30,7 @@ function app5Function() {
 
 // Function to load and embed new HTML content on the entire page
 function loadNewContent(url) {
+  dock.style.bottom = "-100px"; 
   fetch(url)
     .then(response => response.text())
     .then(data => {
