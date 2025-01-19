@@ -4,12 +4,6 @@ function app1Function() {
 
 function app2Function() {
   console.log('App 2 clicked!');
-  
-  // Get the MacOS-like window element
-  const macWindow = document.getElementById('macWindow');
-  
-  // Show the MacOS-like window
-  macWindow.style.display = 'block';
 }
 
 function app3Function() {
