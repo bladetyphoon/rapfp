@@ -6,7 +6,7 @@ function app1Function() {
 
 function app2Function() {
   setTimeout(() => {
-    loadNewContent("https://cdn.jsdelivr.net/gh/your-user/your-repo/app2-content.html");
+    loadNewContent("<h1>App 2 Content</h1><p>This is some inline HTML for App 2.</p>");
   }, 100);
 }
 
@@ -18,7 +18,7 @@ function app3Function() {
 
 function app4Function() {
   setTimeout(() => {
-    loadNewContent("https://cdn.jsdelivr.net/gh/your-user/your-repo/app4-content.html");
+    loadNewContent("<h1>App 4 Content</h1><p>Inline HTML for App 4.</p>");
   }, 100);
 }
 
@@ -29,25 +29,37 @@ function app5Function() {
 }
 
 // Function to load and embed new HTML content with a loading spinner
-function loadNewContent(url) {
+function loadNewContent(content) {
   dock.style.bottom = "-100px";
   showLoadingSpinner(); // Show the loading spinner
 
-  fetch(url)
-    .then(response => response.text())
-    .then(data => {
-      // Replace the entire document with the new HTML
-      document.open();
-      document.write(data);
-      document.close();
-    })
-    .catch(error => {
-      console.error('Error loading new content:', error);
-      alert('Failed to load content. Please try again.');
-    })
-    .finally(() => {
-      hideLoadingSpinner(); // Hide the loading spinner after fetch is complete
-    });
+  // Check if content is a URL or pure HTML
+  if (content.startsWith("http://") || content.startsWith("https://")) {
+    // Fetch content from URL
+    fetch(content)
+      .then(response => response.text())
+      .then(data => {
+        replaceDocumentContent(data); // Replace the document with fetched content
+      })
+      .catch(error => {
+        console.error('Error loading new content:', error);
+        alert('Failed to load content. Please try again.');
+      })
+      .finally(() => {
+        hideLoadingSpinner(); // Hide the loading spinner after fetch is complete
+      });
+  } else {
+    // Content is pure HTML, directly replace the document
+    replaceDocumentContent(content);
+    hideLoadingSpinner(); // Hide spinner immediately since no fetching is needed
+  }
+}
+
+// Function to replace the entire document with new content
+function replaceDocumentContent(htmlContent) {
+  document.open();
+  document.write(htmlContent);
+  document.close();
 }
 
 // Function to show the loading spinner
