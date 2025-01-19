@@ -28,12 +28,15 @@ function app5Function() {
   }, 100);
 }
 
-// Function to load new HTML content from a JSDelivr link
+// Function to load and embed new HTML content on the entire page
 function loadNewContent(url) {
   fetch(url)
     .then(response => response.text())
     .then(data => {
-      document.body.innerHTML = data; // Replaces entire body content with the new HTML
+      // Replace the entire document with the new HTML
+      document.open(); // Opens the document for writing
+      document.write(data); // Writes the fetched HTML into the document
+      document.close(); // Closes the document and renders the new content
     })
     .catch(error => console.error('Error loading new content:', error));
 }
