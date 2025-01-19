@@ -64,7 +64,7 @@ function showLoadingSpinner() {
       width: 50px;
       height: 50px;
       border: 5px solid rgba(0, 0, 0, 0.1);
-      border-top: 5px solid #000;
+      border-top: 5px solid #fff;
       border-radius: 50%;
       animation: spin 1s linear infinite;
     "></div>
