@@ -47,7 +47,7 @@ function getRandomImage() {
 // Ryo Yamada
 // Torako Koshi
 // Noko Shikanoko
-// Ai Hoshino (my beloved)
+// Ai Hoshino
 // Ruby Hoshino
 // Mahiro Oyama
 // Mihari Oyama
